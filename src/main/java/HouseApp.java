@@ -27,8 +27,11 @@ public class HouseApp {
 //        scott.clean();
 //        scott.clean();
 
-        DomesticService dsc = ctx.getBean("domesticService",DomesticService.class);
-        dsc.runHousehold();
+//        DomesticService dsc = ctx.getBean("domesticService",DomesticService.class);
+//        dsc.runHousehold();
+
+        CleaningRobot rbt = ctx.getBean(CleaningRobot.class);
+        rbt.doCleaning();
 
     }
 }

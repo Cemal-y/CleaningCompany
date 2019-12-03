@@ -1,7 +1,9 @@
 package services;
 
-public class LawnMower implements GardeningTool{
+import org.springframework.stereotype.Component;
 
+@Component
+public class LawnMower implements GardeningTool{
 
     @Override
     public void doGardenJob() {

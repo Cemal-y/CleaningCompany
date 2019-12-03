@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b5e5057-44a0-4108-9363-caf9dd5f9cd3" name="Default Changelist" comment="" />
+    <list default="true" id="4b5e5057-44a0-4108-9363-caf9dd5f9cd3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/services/CleaningRobot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HouseApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HouseApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/Broom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/Broom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/CleaningServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/CleaningServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/DisposibleDuster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/DisposibleDuster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/DomesticServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/DomesticServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/GardeningServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/GardeningServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/LawnMower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/LawnMower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/Sponge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/Sponge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/VacuumCleaner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/VacuumCleaner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HouseApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HouseApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/Broom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/Broom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/CleaningServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/CleaningServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/DisposibleDuster.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/DisposibleDuster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/DomesticServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/DomesticServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/GardeningServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/GardeningServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/LawnMower.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/LawnMower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/Sponge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/Sponge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/services/VacuumCleaner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/services/VacuumCleaner.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +39,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +50,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1UFPMcCqjU1Kq7ncsUNL1XyqaXM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -69,11 +96,27 @@
       <workItem from="1574973639512" duration="6475000" />
       <workItem from="1575015920230" duration="4366000" />
       <workItem from="1575030034228" duration="787000" />
-      <workItem from="1575273663337" duration="6750000" />
+      <workItem from="1575273663337" duration="8411000" />
+      <workItem from="1575360977155" duration="90000" />
+      <workItem from="1575369308851" duration="236000" />
+      <workItem from="1575369638500" duration="4685000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
